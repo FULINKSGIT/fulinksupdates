@@ -1,1 +1,1 @@
-fulinksupdates application with GitHub Releases auto-updater support.
+application with GitHub Releases auto-updater support.
