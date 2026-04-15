@@ -4,11 +4,11 @@
   "pub_date": "2026-04-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI_1.0.3_x64_en-US.msi",
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI_1.0.3_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0emtuMVczTWorbEsrc0JzWis5OFM5ajdrZytpU3hsM2lsTUdTT204L3BwUHpVbjkxRldnSEhzVnEyVlFpdWUwT0tsWWtiTGVQQ2dXVTNLY1lJMzhCd2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDcyNzgwCWZpbGU6QWdyaWxudGVsbGlfMS4wLjNfeDY0X2VuLVVTLm1zaQp0VHFHcFpiUk9yM3VsRnR5N2hBTTVReSsyRFRsWUloblgxVjFDVWJDQ2VaekRvbVNQUnJtUDJ0M3BkZnlSTVoxemJYVWI3aHZBY05LS0REUmkvMkNBQT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI.app.tar.gz",
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enJEWDA0OTVuMHlIYkhhd0lTdHpkZmJJY24ySm1qaC9iak16YlN5S0xnVUVpcThDY1M3TTVtZzJaTEsyWmh3Ly9OYURiZ3U2TVJ1bWVjbzFTNitBV0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDYwOTExCWZpbGU6QWdyaWxudGVsbGkuYXBwLnRhci5negpLK1R6VHBUNHRhTnVoYjZiL3BSZGErb3MweHVVWmNBbFBLUXpnZERRVkwzYUFSWFpNYWlXRlJCOFJOMm1hRFVjMk43SU1FRkxJOFFRRUNocGNtQjdEUT09Cg=="
     }
   }
