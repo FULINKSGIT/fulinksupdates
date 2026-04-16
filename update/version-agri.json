@@ -1,15 +1,15 @@
 {
-  "version": "1.0.3",
-  "notes": "1. 修复已知问题\n2. 提升稳定性\n3. 优化性能",
-  "pub_date": "2026-04-12T12:00:00Z",
+  "version": "1.0.4",
+  "notes": "Bug fixes and performance optimizations",
+  "pub_date": "2026-04-15T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI_1.0.3_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0emtuMVczTWorbEsrc0JzWis5OFM5ajdrZytpU3hsM2lsTUdTT204L3BwUHpVbjkxRldnSEhzVnEyVlFpdWUwT0tsWWtiTGVQQ2dXVTNLY1lJMzhCd2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDcyNzgwCWZpbGU6QWdyaWxudGVsbGlfMS4wLjNfeDY0X2VuLVVTLm1zaQp0VHFHcFpiUk9yM3VsRnR5N2hBTTVReSsyRFRsWUloblgxVjFDVWJDQ2VaekRvbVNQUnJtUDJ0M3BkZnlSTVoxemJYVWI3aHZBY05LS0REUmkvMkNBQT09Cg=="
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/AgriIntelli_1.0.4_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0empxVFhBbnlsS1ZzNldvL2JaOEJPT1kvRHdGK2RTdm5NMHAySGtsRUdBK0lZTXUrelZkOWJrZmhtR3lIVVB6Qjc5MmdNcDVkYlNudWQ3ajdqbjkvd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzExMjcwCWZpbGU6QWdyaUludGVsbGlfMS4wLjRfeDY0X2VuLVVTLm1zaQp5UWVRRHhXd0Q2SmN0Umtiakc5R3BzbzRrYlpRcjRDd3dJdCtBV2NKWTNYd2JKenBHbHZYT2E5YU9taW92ams1QUt6Y3ZNVjBnaWtwSkdxc0o5dVhEdz09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/AGRI.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enJEWDA0OTVuMHlIYkhhd0lTdHpkZmJJY24ySm1qaC9iak16YlN5S0xnVUVpcThDY1M3TTVtZzJaTEsyWmh3Ly9OYURiZ3U2TVJ1bWVjbzFTNitBV0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDYwOTExCWZpbGU6QWdyaWxudGVsbGkuYXBwLnRhci5negpLK1R6VHBUNHRhTnVoYjZiL3BSZGErb3MweHVVWmNBbFBLUXpnZERRVkwzYUFSWFpNYWlXRlJCOFJOMm1hRFVjMk43SU1FRkxJOFFRRUNocGNtQjdEUT09Cg=="
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/AgriIntelli.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enRpdExjZHZyM2hmeVdlaWJIUy9xSUhOMHFvUDRWWFpNMkREVE1haXd2QnRrdDQ5M01tTXE4MGtPZHBNNFlrK0pXU0xlcm83NkZGUkIza3JVSU9WS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzEwODIxCWZpbGU6QWdyaUludGVsbGkuYXBwLnRhci5nego0Mko0VFV0WlRKeXd0UEJId3pnM3hSazFUWjFtKzQvY0l4d2RwcWxwZTZ2VUZ5T2VodnJrc29vLzRVRWc0T09CUHlkbTkxWS8zUU1lMXdUeW5xUmVBZz09Cg=="
     }
   }
 }

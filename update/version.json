@@ -1,15 +1,15 @@
 {
-  "version": "1.0.3",
-  "notes": "1. 修复已知问题\n2. 提升稳定性\n3. 优化性能",
-  "pub_date": "2026-04-12T12:00:00Z",
+  "version": "1.0.4",
+  "notes": "Bug fixes and performance optimizations",
+  "pub_date": "2026-04-15T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/FULINKS_1.0.3_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0emljTEx3MGFuajJsTmxJSDJJZ3hOaEplc2JGSXZzT2pCMDA2QmFFNG5Rc0xVTTRuM0Q5ZUNuQkdFMUl5ektRMjFuUXdBWE1MSTA5cW5KMGhEZ0hJcEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDcyNzc1CWZpbGU6RlVMSU5LU18xLjAuM194NjRfZW4tVVMubXNpClRuS08yMW5wc0hOTkJCR2grSVBhVS8rWjFaOTdsQ0F2eVEyV0Zzb2tqZU1Ha0VCTGViWVhlQkJ5RzJRc3BNd3VLR2k2cDBlTUhlc01VUjUyUzdwWUF3PT0K"
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/FULINKS_1.0.4_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0emlKbmRiU0Y2anZZYXk0VW4zVWlXbUxpNjV0anc2ZmtkU01Sb3REaFc0TFRvQVk3ZG5RTXlZc00wSzdvY2gyc1R1TElXbWVHSktndXNOWlF4bzBHS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzExNDY4CWZpbGU6RlVMSU5LU18xLjAuNF94NjRfZW4tVVMubXNpCnNBSG5lUUVJdVpDTHJuT1hxYXMvcTk3aDlRV1VNQ3V2SjExSllvZk5EQU5nUlFOdEpsZys2RDFkR0l3K1lMTVA1YkNpVEpIVHNhaTdad291aEQwN0JBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.3/FULINKS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enNNWFFQVGZ4elZRUjR2dmIvQkFYc2FldXJDN2NWK1o4TVdGRmZhY2JTNDZnbFh1RklWVzFobURWanN4djJheEFPR3hyV0l1QWFPUHQ0QUV4ZXFsK2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQwOTQ2CWZpbGU6RlVMSU5LUy5hcHAudGFyLmd6CnMrTERkdmFCeDQvcUdWTE93WGtCb0toMldBQ0RoOE43cXBPam8xOGJ0YXZZanp4ek1kSU5vb1RrdUx3U3FwbUNCdHRrNlVNaWFKQ1NlVDNrSDh3RkJBPT0K"
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/FULINKS.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0em9Da1JrL2EvNy9UUExRVHZqdXJSSThNYVFnaDRVVUcrR2dmdXFBWFo5dHp5M1J0TVhCdE9hOTI0djJ5T3JOYlVIcjNKTmhJT0RjdHRmbmJwdlZycVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzEwODE5CWZpbGU6RlVMSU5LUy5hcHAudGFyLmd6CmFFZjlCV1VlbVljMTJOc1RvZFJEQUg1cVhwbC9MZ2YzclBON1FreXRFYldROW1lVkdYWS93UERsQkhudDhqWUQrMTBRVnoralVITFJ0SW9Jelp0ZURnPT0K"
     }
   }
 }
