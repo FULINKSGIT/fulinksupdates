@@ -1,15 +1,15 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": "Bug fixes and performance optimizations",
   "pub_date": "2026-04-15T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/AgriIntelli_1.0.4_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0empxVFhBbnlsS1ZzNldvL2JaOEJPT1kvRHdGK2RTdm5NMHAySGtsRUdBK0lZTXUrelZkOWJrZmhtR3lIVVB6Qjc5MmdNcDVkYlNudWQ3ajdqbjkvd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzExMjcwCWZpbGU6QWdyaUludGVsbGlfMS4wLjRfeDY0X2VuLVVTLm1zaQp5UWVRRHhXd0Q2SmN0Umtiakc5R3BzbzRrYlpRcjRDd3dJdCtBV2NKWTNYd2JKenBHbHZYT2E5YU9taW92ams1QUt6Y3ZNVjBnaWtwSkdxc0o5dVhEdz09Cg=="
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.5/AgriIntelli_1.0.5_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enB0b2dBWUVRVGRWUmlRdFZvbEVhVHdiK3lCTGNkci9DV3ZaVEF1K0I2REg3anRtS3lnNllOYXJ2bmVId2J1emozOFpBUlRDNU9ialJFQ0thVnlmWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIyOTc1CWZpbGU6QWdyaUludGVsbGlfMS4wLjVfeDY0X2VuLVVTLm1zaQpmRjdjR2Q2RXh0bFplRVd6dVVxcE5rekk5Q1JLM0pLT255WWFSVXJVS0YvMVFJa1lacVVYS0hGd3pUZXJ2M3loYWdIWDFlaWZDOW5RdWQ3YUNERXFCQT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.4/AgriIntelli.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enRpdExjZHZyM2hmeVdlaWJIUy9xSUhOMHFvUDRWWFpNMkREVE1haXd2QnRrdDQ5M01tTXE4MGtPZHBNNFlrK0pXU0xlcm83NkZGUkIza3JVSU9WS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzEwODIxCWZpbGU6QWdyaUludGVsbGkuYXBwLnRhci5nego0Mko0VFV0WlRKeXd0UEJId3pnM3hSazFUWjFtKzQvY0l4d2RwcWxwZTZ2VUZ5T2VodnJrc29vLzRVRWc0T09CUHlkbTkxWS8zUU1lMXdUeW5xUmVBZz09Cg=="
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.5/AgriIntelli.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0emt5L1FoRFpHRXdPdmx0L0gxK09PQk1Xbms5dWJmNTZEa3FyN1lBMHJOT0lKRGgvWTg5R09hbXdLRy9wWTR3dE80eVQ4WEVGTjhldU9ZcVJaS2RyTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIyMTUzCWZpbGU6QWdyaUludGVsbGkuYXBwLnRhci5negpzUmZodEVCWXV0QmJjUVFqRHFrV0VlZ0QvTjJzNVQzS2RkQVk5dDhVMVhjMnF1T2lTYzhjM2R4ck85VDhEWEVJblY3RTRnQ092M29yTmx4NWRkaUlCUT09Cg=="
     }
   }
 }
