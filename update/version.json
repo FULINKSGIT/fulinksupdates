@@ -1,15 +1,15 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": "Bug fixes and performance optimizations",
-  "pub_date": "2026-04-15T12:00:00Z",
+  "pub_date": "2026-05-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.5/FULINKS_1.0.5_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0em5yaWxKTXQya25ZUnVDdG1oL0hpYXBuQnZTTCtVRWMrNytVN0NlVWF1M2NoY3pDb09lMnZHaDExYlA3d28rOExFaHV5YnJlNHpMUitKNlhjeExGdndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIyOTk3CWZpbGU6RlVMSU5LU18xLjAuNV94NjRfZW4tVVMubXNpCk9UWnZLTkQxaUQ0a0E3T2pva2Q5M2EyazJZS0wxRWNwVzQ3VnNKQjZmck9CT2IxdUdQS0c2UDFyUVN6ZVJiMHNkRWg0TXByTW5tL1JkUFRQTWZSNEJ3PT0K"
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.6/FULINKS_1.0.6_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enZnSWJpTXJNSk5XeURHaW9aRXRwc2JCLzEvWmcyYjU0MnJiL2owZE8yOHBOQXdpNUt3MG9DcEZYeUhXRFVSVGhVYVUzU3VlM0lmTWY2WUU4MDlHZ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc5NjUxCWZpbGU6RlVMSU5LU18xLjAuNl94NjRfZW4tVVMubXNpCi9ZK3JrU1FLZTY1YzFqRzY5SjlVVmxMZkhtcnlzOThGdUZHVVlDNzM2T2VvWkRvQ1R5WjdscXRubnlxZU1Vbk9qUUZWYTA1VmRlNTM1ZTd6aXcxMUFnPT0K"      
     },
     "darwin-aarch64": {
-      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.5/FULINKS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enRla2JsazYramtLbGZTVUVMUHlHc0pkMEtxekZFSlphc0IrRjJjRmIyRis5TVg2dnVURndrMXVIL2JkWHJleGFYQnlKdFdTR0xTWHpUeDZhN20zY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIyMTE0CWZpbGU6RlVMSU5LUy5hcHAudGFyLmd6CkJobEVoWVFVcWIwN1UrSXo4VHFETEJGSlRrd0N4SmdTakZ5Y0orTFJneGNwZEprbklpUTJRdFZNSXJtVVdRUENzajJ0OE5GTzVNS1hLVjVRdUtRbEFBPT0K"
+      "url": "https://ghproxy.net/https://github.com/FULINKSGIT/fulinksupdates/releases/download/v1.0.6/FULINKS.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQXhXQnB6a0J0enF3amJxY2plUlRQS3F5TTdyS2ZaaGQ3V09vVXF5di9BQmpiSTQveld5bWRNcFhMSzNvR2dtMS9sVU54MlBMWWk3ZHptc0dkTEVRODh2WXBlRkRlTndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTY4NTAyCWZpbGU6RlVMSU5LUy5hcHAudGFyLmd6CjVBWFl3NGtncDN0U0NxWFF1SDVkazdSeGlsaTM5Nm8zbmVURDdSTWY4Y0lqQlh5R2VlU3VLOStLNStQemh6N0FPejdSZ290TDhkdDYrQ2t0cnozZUJBPT0K"
     }
   }
 }
